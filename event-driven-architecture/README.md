@@ -1,3 +1,3 @@
 # Event driven architecture:
 
-<img src="./event-driven architecture.svg">
+<img src="./event-driven-architecture.svg">
