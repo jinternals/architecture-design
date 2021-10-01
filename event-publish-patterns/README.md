@@ -4,7 +4,7 @@
 <img src="./transaction-chaining.svg">
 </p>
 
-### Event Store and Poll And Publish
+### Event Store - Poll And Publish
 <p align="center">
 <img src="./event-store-and-publishing.svg">
 </p>
